@@ -1,1 +1,2 @@
 # KanbaneryTest
+cos pasuje dodac
